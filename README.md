@@ -3,7 +3,11 @@
 </h1>
 
 ## 💫 About Me:
-🎯 Focusing on building impactful & real world problem solution<br>🌱 I’m currently learning Next.js<br>💬 Ask me about Java, Javascript, Spring boot, React, Node.js <br>✨ Always remember "Everyday is a second chance!"
+🧑‍🎓 Pre-final year student of Computer Engineering<br>
+🎯 Focusing on building impactful & real world problem solution<br>
+🌱 I’m currently learning Next.js<br>
+💬 Ask me about Java, Javascript, Spring boot, React, Node.js <br>
+✨ Always remember "Everyday is a second chance!"
 
 
 ## 🌐 Socials:
