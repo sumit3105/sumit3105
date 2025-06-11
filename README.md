@@ -24,6 +24,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=sumit3105&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sumit3105&icon=2&color=1)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=sumit3105&color=blue&style=plastic)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
