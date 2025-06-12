@@ -3,9 +3,8 @@
 </h1>
 
 ## 💫 About Me:
-🧑‍🎓 Pre-final year student of Computer Engineering<br>
+🧑‍🎓 Final year Computer Engineering student at DDU Nadiad<br>
 🎯 Focusing on building impactful & real world problem solution<br>
-🌱 I’m currently learning Next.js<br>
 💬 Ask me about Java, Javascript, Spring boot, React, Node.js <br>
 ✨ Always remember "Everyday is a second chance!"
 
